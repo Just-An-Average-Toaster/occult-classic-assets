@@ -1,0 +1,46 @@
+{
+    "name": "Occult classic Assets",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.21",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj",
+    "palette": [
+        "#000000",
+        "#1a1c2c",
+        "#5d275d",
+        "#73eff7",
+        "#ef7d57",
+        "#ffcd75",
+        "#a7f070",
+        "#38b764",
+        "#257179",
+        "#29366f",
+        "#3b5dc9",
+        "#41a6f6",
+        "#f4f4f4",
+        "#94b0c2",
+        "#566c86",
+        "#333c57"
+    ]
+}
