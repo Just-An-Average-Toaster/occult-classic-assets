@@ -18,7 +18,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.12.21",
+        "target": "1.12.24",
         "targetId": "arcade"
     },
     "supportedTargets": [
@@ -28,7 +28,7 @@
     "palette": [
         "#000000",
         "#1a1c2c",
-        "#5d275d",
+        "#BD2E2E",
         "#73eff7",
         "#ef7d57",
         "#ffcd75",
