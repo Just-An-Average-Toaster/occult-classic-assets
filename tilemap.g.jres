@@ -407,6 +407,18 @@
         "tilemapTile": true,
         "displayName": "Vertallycan"
     },
+    "tile69": {
+        "data": "hwQQABAAAACqqqqqqqqrGqqqqqqqqqsaqqqqqqqqqxqqqqqqqqqrGqqqqqqqqqsaqqqqqqqqqxqqqqqqqqqrGqqqqqqqqqsaqqqqqqqqqxqqqqqqqqqrGqqqqqqqqqsaqqqqqqqqqxqZmZmZmZmrGhEREREREasau7u7u7u7qxoREREREREREQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "BBuilding0"
+    },
+    "tile70": {
+        "data": "hwQQABAAAADu7u7u7u7tHu7u7u7u7u0e7u7u7u7u7R7u7u7u7u7tHu7u7u7u7u0e7u7u7u7u7R7u7u7u7u7tHu7u7u7u7u0e7u7u7u7u7R7u7u7u7u7tHu7u7u7u7u0e7u7u7u7u7R7////////tHhEREREREe0e3d3d3d3d7R4REREREREREQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "GBuilding1"
+    },
     "city1": {
         "id": "city1",
         "mimeType": "application/mkcd-tilemap",
