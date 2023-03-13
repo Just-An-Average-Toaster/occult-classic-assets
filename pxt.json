@@ -2,7 +2,8 @@
     "name": "Occult classic Assets",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "arcade-tile-util": "github:microsoft/arcade-tile-util#v1.0.1"
     },
     "files": [
         "main.blocks",
@@ -18,13 +19,13 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.12.24",
+        "target": "1.12.25",
         "targetId": "arcade"
     },
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "tsprj",
+    "preferredEditor": "blocksprj",
     "palette": [
         "#000000",
         "#1a1c2c",

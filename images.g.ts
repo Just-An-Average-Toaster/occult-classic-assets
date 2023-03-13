@@ -768,6 +768,44 @@ eeeeeeeeeeeeeeee8111111111111111181111111111111111811111111111111118eeeeeeeeeeee
 8fddddddddddddddd8ddddddd1dddddddd8dddddddddddddddd81dd1aaaaaaaaa1a18a1aaaaaaaaa1dd18dddddddddddddddd8dddddddd1ddddddd8dddddddddddddddf8
 8ffffffffffffffff8fffffff1111111118111111111111111181dd1aaaaaaaaa1a18a1aaaaaaaaa1dd1811111111111111118111111111fffffff8ffffffffffffffff8
 `;
+            case "image14":
+            case "doorimg":return img`
+1 c c c c c c c c c c c d c c c 
+1 d d d d d d d d d d d d e e e 
+1 d d e e e e e e e e e e e e e 
+1 d d 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 d d 1 a a a a a a a a a 1 a 1 
+1 d d 1 a a a a a a a a a 1 a 1 
+1 d d 1 a a a a a a a a a 1 a 1 
+1 d d 1 a a a a a a a 1 1 1 a 1 
+1 d d 1 a a a a a a a 1 e 1 a 1 
+1 d d 1 a a a a a a a 1 e 1 a 1 
+1 d d 1 a a a a a a a 1 e 1 a 1 
+1 d d 1 a a a a a a a 1 e 1 a 1 
+1 d d 1 a a a a a a a 1 1 1 a 1 
+1 d d 1 a a a a a a a a a 1 a 1 
+1 d d 1 a a a a a a a a a 1 a 1 
+1 d d 1 a a a a a a a a a 1 a 1 
+`;
+            case "image15":
+            case "doorimg0":return img`
+c c c d c c c c c c c c c c c 1 
+e e e d d d d d d d d d d d d 1 
+e e e e e e e e e e e e e d d 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 d d 1 
+1 a 1 a a a a a a a a a 1 d d 1 
+1 a 1 a a a a a a a a a 1 d d 1 
+1 a 1 a a a a a a a a a 1 d d 1 
+1 a 1 1 1 a a a a a a a 1 d d 1 
+1 a 1 e 1 a a a a a a a 1 d d 1 
+1 a 1 e 1 a a a a a a a 1 d d 1 
+1 a 1 e 1 a a a a a a a 1 d d 1 
+1 a 1 e 1 a a a a a a a 1 d d 1 
+1 a 1 1 1 a a a a a a a 1 d d 1 
+1 a 1 a a a a a a a a a 1 d d 1 
+1 a 1 a a a a a a a a a 1 d d 1 
+1 a 1 a a a a a a a a a 1 d d 1 
+`;
         }
         return null;
     })

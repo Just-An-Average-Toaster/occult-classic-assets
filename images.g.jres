@@ -64,6 +64,16 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "myImage0"
     },
+    "image14": {
+        "data": "hwQQABAAAAAREREREREREdzd3d3d3d3d3N3d3d3d3d3cHhEREREREdweqqqqqqqq3B6qqqqqqqrcHqqqqqqqqtweqqqqqqqq3B6qqqqqqqrcHqqqqqqqqtweqqqqqqqq3B6qGhERoardHqoa7u6hquweERERERER7B6qqqqqqqrsHhEREREREQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "doorimg"
+    },
+    "image15": {
+        "data": "hwQQABAAAADsHhEREREREeweqqqqqqqq7B4RERERERHdHqoa7u6hqtweqhoREaGq3B6qqqqqqqrcHqqqqqqqqtweqqqqqqqq3B6qqqqqqqrcHqqqqqqqqtweqqqqqqqq3B6qqqqqqqrcHhEREREREdzd3d3d3d3d3N3d3d3d3d0REREREREREQ==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "doorimg0"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
