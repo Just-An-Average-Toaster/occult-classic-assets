@@ -548,7 +548,7 @@ namespace myTiles {
 2222222222222222222..2222
 `, [myTiles.transparency16,myTiles.tile73,myTiles.tile71,myTiles.tile72,myTiles.tile74,myTiles.tile75,myTiles.tile76,myTiles.tile77,myTiles.tile79,myTiles.tile80,myTiles.tile82,myTiles.tile81,myTiles.tile83,myTiles.tile84,myTiles.tile85,myTiles.tile86,myTiles.tile87,myTiles.tile88,myTiles.tile89,myTiles.tile90,myTiles.tile91,myTiles.tile92,myTiles.tile93,myTiles.tile94,myTiles.tile95,myTiles.tile96,myTiles.tile97,myTiles.tile98,myTiles.tile99,myTiles.tile130], TileScale.Sixteen);
             case "cultroom":
-            case "cultroom1":return tiles.createTilemap(hex`0800080007070707070707070707070102070707070707040307070707070704030707070707070506070707070707070707070707070707070707070707070707070707`, img`
+            case "cultroom1":return tiles.createTilemap(hex`08000800070a0a0a0a0a0a07070707010207070907070704030707090707070403070709070707050607070907070707070707090707070707070709070b0b0b0b0b0b08`, img`
 . . . . . . . . 
 . . . . . . . . 
 . . . . . . . . 
@@ -557,7 +557,7 @@ namespace myTiles {
 . . . . . . . . 
 . . . . . . . . 
 . . . . . . . . 
-`, [myTiles.transparency16,myTiles.tile139,myTiles.tile140,myTiles.tile142,myTiles.tile141,myTiles.tile143,myTiles.tile144,myTiles.tile145], TileScale.Sixteen);
+`, [myTiles.transparency16,myTiles.tile139,myTiles.tile140,myTiles.tile142,myTiles.tile141,myTiles.tile143,myTiles.tile144,myTiles.tile145,myTiles.tile146,myTiles.tile147,myTiles.tile148,myTiles.tile149], TileScale.Sixteen);
         }
         return null;
     })

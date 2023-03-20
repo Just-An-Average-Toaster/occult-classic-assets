@@ -965,6 +965,44 @@ e e e e e e e e e e e e e d d 1
 888888888888888828888888888888888
 222222222222222222222222222222222
 `;
+            case "image17":
+            case "Tomothy Side R":return img`
+. . . . . . . . . . . . . . . . 
+. . . . . f f f . . . . . . . . 
+. . . . f d d d f . . . . . . . 
+. . . f d e e d f f f . . . . . 
+. . . f d e f f e e d f . . . . 
+. . . f d f d d e f e f . . . . 
+. . . . f f 1 d d e e d f . . . 
+. . . . f 1 1 1 d d d 1 f . . . 
+. . . f 1 1 f f 1 1 f f . . . . 
+. . . f 1 1 e f f d d f . . . . 
+. . . f 1 1 1 e e d e f . . . . 
+. . . f 1 1 1 1 1 f f . . . . . 
+. . . f 1 1 1 1 1 1 f . . . . . 
+. . . f 1 1 e f 1 1 e f . . . . 
+. . . f d d e f d d e f . . . . 
+. . . . f f f . f f f . . . . . 
+`;
+            case "image19":
+            case "Tomothy Side L":return img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . f f f . . . . . 
+. . . . . . . f d d d f . . . . 
+. . . . . f f f d e e d f . . . 
+. . . . f e e d f f e d f . . . 
+. . . . f e f e d d f d f . . . 
+. . . f d d e e d 1 f f . . . . 
+. . . f 1 d d d 1 1 1 f . . . . 
+. . . . f f 1 1 f f 1 1 f . . . 
+. . . . f e d f f e 1 1 f . . . 
+. . . . f d d e e 1 1 1 f . . . 
+. . . . . f f 1 1 1 1 1 f . . . 
+. . . . . f 1 1 1 1 1 1 f . . . 
+. . . . f e 1 1 f e 1 1 f . . . 
+. . . . f e d d f e d d f . . . 
+. . . . . f f f . f f f . . . . 
+`;
         }
         return null;
     })

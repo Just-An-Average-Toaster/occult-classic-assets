@@ -84,6 +84,16 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "cult table0"
     },
+    "image17": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8P8A////DwDf3f8RERH98O3+HxEREf3w7d8R7xHh/vDd3x3/HvEPAP/u3fEeEf0A8P7e0f0R/QDw7d7f/u/+AAD/Hf8P8A8AAAD/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Tomothy Side R"
+    },
+    "image19": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/AAAAAAAA/x3/D/APAPDu3e/97/4A8P7e0f0R/QD/7d7xHhH98N3fHf8e8Q/w7d8R7xHh/vDt/h8RERH9AN/d/xEREf0A8P8A////DwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Tomothy Side L"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",

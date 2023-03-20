@@ -1204,7 +1204,7 @@
     "cultroom1": {
         "id": "cultroom1",
         "mimeType": "application/mkcd-tilemap",
-        "data": "MTAwODAwMDgwMDA3MDcwNzA3MDcwNzA3MDcwNzA3MDcwMTAyMDcwNzA3MDcwNzA3MDQwMzA3MDcwNzA3MDcwNzA0MDMwNzA3MDcwNzA3MDcwNTA2MDcwNzA3MDcwNzA3MDcwNzA3MDcwNzA3MDcwNzA3MDcwNzA3MDcwNzA3MDcwNzA3MDcwNzA3MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
+        "data": "MTAwODAwMDgwMDA3MGEwYTBhMGEwYTBhMDcwNzA3MDcwMTAyMDcwNzA5MDcwNzA3MDQwMzA3MDcwOTA3MDcwNzA0MDMwNzA3MDkwNzA3MDcwNTA2MDcwNzA5MDcwNzA3MDcwNzA3MDcwOTA3MDcwNzA3MDcwNzA3MDkwNzBiMGIwYjBiMGIwYjA4MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
         "tileset": [
             "myTiles.transparency16",
             "myTiles.tile139",
@@ -1213,7 +1213,11 @@
             "myTiles.tile141",
             "myTiles.tile143",
             "myTiles.tile144",
-            "myTiles.tile145"
+            "myTiles.tile145",
+            "myTiles.tile146",
+            "myTiles.tile147",
+            "myTiles.tile148",
+            "myTiles.tile149"
         ],
         "displayName": "cultroom"
     },
